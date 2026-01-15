@@ -1,4 +1,4 @@
-def area_of_circle(area):
+def area_of_circle(radius):
   return 3.14 * radius * radius
 if __name__=="__main__":
   try:
